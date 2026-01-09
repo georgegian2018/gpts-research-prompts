@@ -1,2 +1,2 @@
 # GPT's-Research-Prompts
-I will usee this repo to place my customized GPT prompts for my research
+This repo will be used to place some customized GPT prompts for research
