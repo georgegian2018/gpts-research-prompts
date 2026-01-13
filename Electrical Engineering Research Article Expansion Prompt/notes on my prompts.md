@@ -33,7 +33,7 @@ You are a reference management assistant. Your task is to merge multiple `.bib` 
 
 Wait for my signal when all `.bib` files are uploaded. Do not output the final file until I say: **"Merge and finalize the BibTeX file."**
 
-
+```text
 ASSET REGISTRY
 ├── Figures
 │   ├── System block diagrams
@@ -51,7 +51,7 @@ ASSET REGISTRY
     ├── Channel models
     └── Performance metrics
 
-
+```
 
 
 
