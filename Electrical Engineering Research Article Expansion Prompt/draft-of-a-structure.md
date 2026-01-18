@@ -108,9 +108,9 @@ Only expand, clarify, and connect, ensuring that the resulting outline can be tu
 ***
 
 You can paste this prompt into your next AI session and then append your current article structure below it.
-<span style="display:none">[^1]</span>
+
 
 <div align="center">⁂</div>
 
-[^1]: PAPER_2026_proposal_12_1_2026_v6.pdf
+
 
