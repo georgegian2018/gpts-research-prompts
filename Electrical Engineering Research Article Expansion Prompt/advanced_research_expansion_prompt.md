@@ -94,5 +94,5 @@ You can now download and use this prompt repeatedly for your research papers. Wo
 
 <div align="center">⁂</div>
 
-[^1]: PAPER_2026_proposal_12_1_2026_v6.pdf
+[^1]: 
 
